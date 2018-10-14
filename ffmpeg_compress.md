@@ -1,5 +1,5 @@
 ----
-title: ffmpeg 视频压缩
+title: ffmpeg 视频压缩
 date: 2018-10-14 19:47:00
 tags: ffmpeg
 ----
